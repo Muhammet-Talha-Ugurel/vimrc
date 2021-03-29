@@ -1,10 +1,9 @@
-# vimrc
 # Instalation
 ```
 mkdir ~/.vim/undodir -p
 ```
 ```
-git cone this-repo
+git cone https://github.com/Muhammet-Talha-Ugurel/vimrc.git
 ```
 ```
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs  https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
